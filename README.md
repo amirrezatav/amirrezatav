@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+ I'm student of computer engineering in Shahed university.
+ 
+- 🔭 I’m currently working on .Net Project
+- 🌱 I’m currently learning Web Security
+- 💬 Ask me about .Net (ASP.NET, WPF, Winform, Xamarin)
+- 📫 How to reach me: Telegram : amirrezatav
+- 😄 Pronouns: Happy, Hardworking.
+- ⚡ Fun fact: Play board game
 <!--
 **amirrezatav/amirrezatav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
